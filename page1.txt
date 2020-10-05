@@ -13,7 +13,7 @@ rebase windows
 =======
 team 2 rebase
 >>>>>>> ced5256... test rebase
-change . 
+change . was
 
 
 
